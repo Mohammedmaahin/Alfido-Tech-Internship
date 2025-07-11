@@ -18,10 +18,6 @@ Alfido-Tech-Internship/
 │ └── README.md
 └── README.md (this file)
 
-yaml
-Copy
-Edit
-
 
 ---
 
