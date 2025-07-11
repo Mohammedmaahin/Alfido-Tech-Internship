@@ -68,8 +68,8 @@ Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
 ## 🌟 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohammedmaahin)
-- 📁 [GitHub](https://github.com/mohammedmaahin)
+- 💼 [LinkedIn](www.linkedin.com/in/mohammed-maahin-6a2a4b27b)
+- 📁 [GitHub](https://github.com/Mohammedmaahin)
 - 📧 mohammedmaahin869@gmail.com
 
 ---
