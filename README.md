@@ -42,7 +42,30 @@ Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 ---
 
 ### 🛠 Upcoming:
-- ✅ Task 2: *To be updated*
+✅ Task 2: Loan Approval Prediction
+Objective:
+Perform data analysis and build a machine learning model to predict whether a loan application will be approved or not based on applicant details.
+
+Key Steps:
+
+Handled missing values in categorical and numerical columns.
+
+Performed EDA on income, loan amount, term, credit history, and property area.
+
+Engineered features like TotalIncome and EMI.
+
+Encoded categorical variables using Label Encoding.
+
+Trained multiple models: Logistic Regression, Decision Tree, and Random Forest.
+
+Final Model Chosen:
+✅ Random Forest Classifier with ~77% accuracy
+(Selected for its balanced precision/recall and robustness)
+
+Tools Used:
+Python, Pandas, Seaborn, Scikit-learn, Jupyter Notebook
+
+📂 [Go to Task 2] → (.Task2/loan_approval_analysis1.ipynb)
 - ✅ Task 3: *To be updated*
 
 ---
