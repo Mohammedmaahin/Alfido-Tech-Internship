@@ -37,7 +37,7 @@ Perform Exploratory Data Analysis (EDA) on Zomato’s restaurant dataset to unco
 **Tools Used:**  
 Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
-📂 [Go to Task 1 →](.Task1/Zomato Dataset Analysis.ipynb)
+📂 [Go to Task 1 →](./Task1/Zomato Dataset Analysis.ipynb)
 
 ---
 
@@ -65,7 +65,7 @@ Final Model Chosen:
 Tools Used:
 Python, Pandas, Seaborn, Scikit-learn, Jupyter Notebook
 
-📂 [Go to Task 2] → (.Task2/loan_approval_analysis1.ipynb)
+📂 [Go to Task 2] → (./Task2/loan_approval_analysis1.ipynb)
 - ✅ Task 3: *To be updated*
 
 ---
